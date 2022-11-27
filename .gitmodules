@@ -4,3 +4,9 @@
 [submodule "Lab 1"]
 	path = Lab 1
 	url = https://github.com/LelutoDeku/Lab-1-repo
+[submodule "Lab 2/Lab-1-repo"]
+	path = Lab 2/Lab-1-repo
+	url = https://github.com/LelutoDeku/Lab-1-repo
+[submodule "test"]
+	path = test
+	url = https://github.com/LelutoDeku/Test
